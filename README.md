@@ -13,8 +13,8 @@ You can enter any text or website URL and generate a QR code instantly.
 
 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 📂 Project Files
